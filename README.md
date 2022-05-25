@@ -7,6 +7,8 @@ Break into the capitol and take a picture of the president in its reptile form
 
 Reveal the truth to the world! Sneak your way through the capitol to capture the presidents true form, a coldblooded reptile. Please play with Full-Screen. W,A,S,D to move, Left-Click to take a picture, E to interact, and use the cursor to aim.
 
+#### Play online here: https://jamesj63.itch.io/coldblooded
+
 #### Credits: 
 
 Developer: James Jordan
