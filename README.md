@@ -11,9 +11,9 @@ Reveal the truth to the world! Sneak your way through the capitol to capture the
 
 #### Credits: 
 
-Developer: James Jordan
+Developer: James J
 
-Programmer: James Jordan
+Programmer: James J
 
 Art: Fabrizzio Leonardo Morandi
 
